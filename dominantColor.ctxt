@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=dominantColor
+comment0.text=\r\nThis\ is\ the\ class\ that\ provides\ all\ functions\ of\ the\ to\ find\ the\ dominant\ color\ of\ a\ painting\r\n
+comment1.params=painting
+comment1.target=java.lang.String\ DominantColor(java.util.Map)
+comment2.params=object1\ object2
+comment2.target=int\ compare(java.lang.Object,\ java.lang.Object)
+comment3.params=getRGBrr
+comment3.target=boolean\ comparecolor(int[])
+comment4.params=pixel
+comment4.target=int[]\ getRGB(int)
+numComments=5
